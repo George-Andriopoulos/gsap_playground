@@ -19,3 +19,5 @@ gsap.to(".card", {
     });
   },
 });
+
+gsap.f;
